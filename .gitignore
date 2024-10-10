@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/ApplicationTier/bin/Debug/net8.0
+/ApplicationTier/obj
+/CustomerApi/bin/Debug/net8.0
+/CustomerApi/obj
+/IndustryConnect_Week_Microservices/.vs
+/IndustryConnect_Week_Microservices/bin/Debug/net8.0
+/IndustryConnect_Week_Microservices/obj
+/StoreApi/bin/Debug/net8.0
+/StoreApi/obj
+/UserInterfaceTier/bin/Debug/net8.0
+/UserInterfaceTier/obj
