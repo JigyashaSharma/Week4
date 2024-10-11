@@ -43,7 +43,7 @@ namespace ApplicationTier.Classes
             catch (Exception ex)
             {
                 //can do logging, or re-throw or other handling here
-                throw new Exception(ex.Message);
+                throw new Exception(ex.Message + ex.InnerException?.Message);
             }
             
         }
